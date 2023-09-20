@@ -1,0 +1,66 @@
+#externalcss{
+    color: orange;
+    text-align: center;
+}
+
+div{
+    text-align: center;    
+    background-color: green;
+    padding: 20px;
+}
+div a{
+    text-decoration: none;
+    font-weight: bold;
+    color:white;
+    
+}
+#spacing {
+    padding: 10px;
+   
+    
+    
+}
+#search{
+    float:right;
+    width: 200px;
+    height: 20px;
+    border-radius: 2px;
+}
+#buttonSearch{
+    float: right;  
+    height: 25px;
+    background-color: blue;
+    color: white; 
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+  nav {
+    float: left;
+    width: 30%;
+    height: 1000px; /* only for demonstration, should be removed */
+    background: #1ab675;
+    padding: 20px;
+  }
+
+  article {
+    float: left;
+    padding: 20px;
+    width: 70%;
+    background-color: #5fca98;
+    height: 1000px; /* only for demonstration, should be removed */
+  }
+
+  footer {
+    background-color: #15271f;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    
+  }
+  a:hover{
+    color:crimson;
+  }
+
